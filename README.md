@@ -4,6 +4,4 @@ This is a test project
 
 I am trying to understand how GitHub works
 
-Some local changes
-
-now we are working on the test branch
+Some local changes in the test branch
